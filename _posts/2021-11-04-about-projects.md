@@ -27,7 +27,7 @@ For HardenedOS members only.
 A very new project, no more detail.
 
 
-# Disuss
+# Discussion
 
-hardenedos-disuss@googlegroups.com
+hardenedos-discuss@googlegroups.com
 
