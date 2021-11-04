@@ -24,10 +24,4 @@ Mail to: hardenedos@googlegroups.com
 
 #### Project
 
-Kernel-HD: 致力于缓解ROP/JOP/COP/etc、heap spraying方面的攻击。
-
-Kernel-fuzzing: 致力于内核漏洞挖掘的项目。
-
-Kernel Exploitation: 致力于内核攻击的研究项目，'未知攻焉知防'?
-
-Kubernetes-HD: 一个新项目。
+Plz see [About Projects](https://hardenedos.github.io/announcement/about-projects.html).
