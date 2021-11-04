@@ -1,0 +1,5 @@
+{% assign author = site.data.authors[page.author] %}
+
+{% if author %}
+<span class="author">Written by <a href="{{ author.web }}">{{ author.name }}</a> - {{ page.date | date: "%Y-%m-%d" }}</span>
+{% endif %}
