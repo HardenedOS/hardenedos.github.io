@@ -1,6 +1,9 @@
   <head>
     <meta charset="utf-8">
+    <!--
     <title>{{ site.name }} - Home</title>
+    -->
+    <title>{{ page.title | default: site.title }}</title>
   </head>
 {% include header.html %}
 

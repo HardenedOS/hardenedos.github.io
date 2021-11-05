@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About Projects"
-categories: [Announcement] 
+categories: [Announcements] 
 date: 2021-11-04
 author: Pray3r
 ---
