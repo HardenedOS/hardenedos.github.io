@@ -16,4 +16,4 @@ You also can contact us by e-mail to: hardenedos@googlegroups.com.
 
 #### Project
 
-Plz see [About Projects](https://hardenedos.github.io/announcement/about-projects.html).
+Plz see [About Projects](https://hardenedos.github.io/announcements/about-projects.html).
